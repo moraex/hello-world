@@ -1,2 +1,1 @@
-# hello-world
-A hello world repo for test
+Hy people, this is a hello world tutorial!
